@@ -1,0 +1,6 @@
+Insert into genres (id, genre) VALUES
+(3, 'биография')
+INSERT INTO books (id, title, year, author) VALUES
+(4, 'databiography', NULL, 'Charlie Delvart');
+INSERT INTO books (id, title, year, author) VALUES
+(5, 'world_religious', NULL, 'Huston Smith');
