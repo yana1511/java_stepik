@@ -1,0 +1,5 @@
+INSERT INTO genres (id, genre) VALUES
+(7, 'драма')
+delete from genres where id = 7;
+
+delete from genres where id in (select genre_id from books where name = "Война и Мир" );
