@@ -1,0 +1,4 @@
+INSERT INTO books (id, title, year, author) VALUES
+(6, 'Rodchenko. Design', 2019, 'John Milner'),
+(7, 'Martin Iden', 1963, 'Jack London'),
+(8, 'Art of love', NULL, 'Erich Fhromm');
